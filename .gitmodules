@@ -1,0 +1,66 @@
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule ".vim/bundle/rainbow_parentheses.vim"]
+	path = .vim/bundle/rainbow_parentheses.vim
+	url = https://github.com/vim-scripts/rainbow_parentheses.vim
+[submodule ".vim/bundle/tabular"]
+	path = .vim/bundle/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule ".vim/bundle/vim-bundler"]
+	path = .vim/bundle/vim-bundler
+	url = https://github.com/tpope/vim-bundler
+[submodule ".vim/bundle/vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule ".vim/bundle/vim-commentary"]
+	path = .vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule ".vim/bundle/vim-endwise"]
+	path = .vim/bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise
+[submodule ".vim/bundle/vim-fugitive"]
+	path = .vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule ".vim/bundle/vim-haml"]
+	path = .vim/bundle/vim-haml
+	url = https://github.com/tpope/vim-haml
+[submodule ".vim/bundle/vim-javascript"]
+	path = .vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule ".vim/bundle/vim-pasta"]
+	path = .vim/bundle/vim-pasta
+	url = https://github.com/sickill/vim-pasta
+[submodule ".vim/bundle/vim-rails"]
+	path = .vim/bundle/vim-rails
+	url = https://github.com/tpope/vim-rails
+[submodule ".vim/bundle/vim-repeat"]
+	path = .vim/bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule ".vim/bundle/vim-space"]
+	path = .vim/bundle/vim-space
+	url = https://github.com/kongo2002/vim-space
+[submodule ".vim/bundle/vim-sparkup"]
+	path = .vim/bundle/vim-sparkup
+	url = https://github.com/bingaman/vim-sparkup
+[submodule ".vim/bundle/vim-surround"]
+	path = .vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule ".vim/bundle/vim-textobj-indent"]
+	path = .vim/bundle/vim-textobj-indent
+	url = https://github.com/kana/vim-textobj-indent
+[submodule ".vim/bundle/vim-textobj-rubyblock"]
+	path = .vim/bundle/vim-textobj-rubyblock
+	url = https://github.com/nelstrom/vim-textobj-rubyblock
+[submodule ".vim/bundle/vim-textobj-syntax"]
+	path = .vim/bundle/vim-textobj-syntax
+	url = https://github.com/kana/vim-textobj-syntax
+[submodule ".vim/bundle/vim-textobj-user"]
+	path = .vim/bundle/vim-textobj-user
+	url = https://github.com/kana/vim-textobj-user
+[submodule ".vim/bundle/vim-visual-star-search"]
+	path = .vim/bundle/vim-visual-star-search
+	url = https://github.com/nelstrom/vim-visual-star-search
+[submodule ".vim/bundle/vim-yankstack"]
+	path = .vim/bundle/vim-yankstack
+	url = https://github.com/maxbrunsfeld/vim-yankstack
