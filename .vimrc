@@ -1,6 +1,3 @@
-source $VIMRUNTIME/mswin.vim " CTRL-C, CTRL-V etc
-behave mswin
-
 set nocompatible " choose no compatibility with legacy vi
 runtime macros/matchit.vim
 runtime ftplugin/man.vim
@@ -160,3 +157,8 @@ inoremap <F1> <ESC> " disable help, and make F1 behave like ESC
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
 nnoremap <leader>W :%s/\s\+$//<cr>:let @/=''<CR> " strip all trailing whitespace in the current file
+" From http://vimcasts.org/episodes/the-edit-command/
+map <leader>ew :e <C-R>=expand("%:p:h") . "/" <CR> " open file in the same directory as the currently active file
+map <leader>es :sp <C-R>=expand("%:p:h") . "/" <CR> " same as above but in split window
+map <leader>ev :vsp <C-R>=expand("%:p:h") . "/" <CR>
+map <leader>et :tabe <C-R>=expand("%:p:h") . "/" <CR>
